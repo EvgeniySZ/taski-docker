@@ -13,7 +13,6 @@ ALLOWED_HOSTS = ['192.168.9.136', 'localhost', '127.0.0.1', 'taski.webhop.me', '
 
 # Application definition
 
-
 INSTALLED_APPS = [
     'api.apps.ApiConfig',
     'django.contrib.admin',
